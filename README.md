@@ -8,4 +8,4 @@ Para executar o .jar do sistema deve entrar na pasta /dir e depois executar o se
 A documentação do sistema foi feita utilizando JavaDoc, para acessá-lá pasta entrar na pasta 'dist' e depois na 'javadoc'.
 
 Feito por: Lucas Silva Silvério - 201820372
-           Pedro Henrique de Menezes - 201820378
+           </br>Pedro Henrique de Menezes - 201820378
